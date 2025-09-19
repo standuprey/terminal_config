@@ -1,4 +1,4 @@
-# 💤 LazyVim + extras
+# Alacritty and t-mux config
 
 - `git clone git@github.com:standuprey/neovim.git` inside ~/.config
 - The home folder contains some other config:
